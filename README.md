@@ -9,3 +9,4 @@ Click the CSV button, then select `Pinball X` button.
 
 Modify `config.json` and change launchbox playlist folder path.
 
+Run `python3 run.py`
