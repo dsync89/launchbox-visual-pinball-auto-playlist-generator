@@ -35,21 +35,21 @@ if __name__ == "__main__":
     LB_PLAYLIST_DIR = json_data['launchbox']['playlist_dir']
 
     # Iterate through each element in "platforms"
-    # for playlist in json_data['playlists_by_theme']:
-    #     theme = playlist['theme']
-    #     playlist_name = playlist['lb_playlist_name']
-    #     theme_txt_file = playlist['theme_txt_file']
+    for playlist in json_data['playlists_by_theme']:
+        theme = playlist['theme']
+        playlist_name = playlist['lb_playlist_name']
+        theme_txt_file = playlist['theme_txt_file']
 
-    #     print("Theme: ", theme)
-    #     print("Playlist Name: ", playlist_name)
-    #     print("Theme TXT File: ", theme_txt_file)
+        print("Theme: ", theme)
+        print("Playlist Name: ", playlist_name)
+        print("Theme TXT File: ", theme_txt_file)
 
-    #     # Generate per theme table names
-    #     print("Generate unique table names for themes based on pinballx csv file downloaded from https://virtual-pinball-spreadsheet.web.app/ ")
-    #     run_gen_theme_unique_table_names(theme, theme_txt_file)  
+        # Generate per theme table names
+        print("Generate unique table names for themes based on pinballx csv file downloaded from https://virtual-pinball-spreadsheet.web.app/ ")
+        run_gen_theme_unique_table_names(theme, theme_txt_file)  
     
-    #     # Generate Launchbox playlist xml
-    #     run_gen_lb_playlist_and_copy_to_lb_playlist_dir(playlist_name, theme_txt_file, LB_PLAYLIST_DIR)
+        # Generate Launchbox playlist xml
+        run_gen_lb_playlist_and_copy_to_lb_playlist_dir(playlist_name, theme_txt_file, LB_PLAYLIST_DIR)
 
     for playlist in json_data['playlists_by_manufacturer']:
         manufacturer = playlist['manufacturer']
