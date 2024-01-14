@@ -1,0 +1,114 @@
+{
+    "launchbox": {
+        "playlist_dir": "c:\\Programs\\LaunchBox\\Data\\Playlists"
+    },
+    "playlists_by_theme": [
+        {
+            "theme": "Adult",            
+            "theme_txt_file": "vpx-theme-adult.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Theme - Adult Tables"
+        }, 
+        {
+            "theme": "Board Game",
+            "theme_txt_file": "vpx-theme-boardgame.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Theme - Board Game Tables"
+        },
+        {
+            "theme": "Fantasy",             
+            "theme_txt_file": "vpx-theme-fantasy.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Theme - Fantasy Tables"
+        },
+        {
+            "theme": "Horror",             
+            "theme_txt_file": "vpx-theme-horror.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Theme - Horror Tables"
+        },
+        {
+            "theme": "Kids",             
+            "theme_txt_file": "vpx-theme-kids.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Theme - Kids Tables"
+        },
+        {
+            "theme": "Licensed",            
+            "theme_txt_file": "vpx-theme-licensed.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Theme - Licensed Tables"
+        }, 
+        {
+            "theme": "Movie",            
+            "theme_txt_file": "vpx-theme-movie.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Theme - Movie Tables"
+        }, 
+        {
+            "theme": "Music",            
+            "theme_txt_file": "vpx-theme-music.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Theme - Music Tables"
+        },    
+        {
+            "theme": "Science Fiction",            
+            "theme_txt_file": "vpx-theme-sciencefiction.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Theme - Sci-Fi Tables"
+        }, 
+        {
+            "theme": "Sports",            
+            "theme_txt_file": "vpx-theme-sport.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Theme - Sport Tables"
+        },             
+        {
+            "theme": "TV",            
+            "theme_txt_file": "vpx-theme-tvshows.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Theme - TV Show Tables"
+        },
+        {
+            "theme": "Video Game",             
+            "theme_txt_file": "vpx-theme-videogame.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Theme - Video Game Tables"
+        }
+    ],
+    "playlists_by_manufacturer": [
+        {
+            "manufacturer": "Bally",            
+            "unique_table_txt_file": "vpx-manufacturer-bally.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Manufacturer - Bally"
+        },
+        {
+            "manufacturer": "Capcom",            
+            "unique_table_txt_file": "vpx-manufacturer-capcom.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Manufacturer - Capcom"
+        },
+        {
+            "manufacturer": "Gottileb",            
+            "unique_table_txt_file": "vpx-manufacturer-gottileb.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Manufacturer - Gottileb"
+        },
+        {
+            "manufacturer": "LTD do Brasil",            
+            "unique_table_txt_file": "vpx-manufacturer-ltddobrasil.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Manufacturer - LTD do Brasil"
+        },
+        {
+            "manufacturer": "Original",            
+            "unique_table_txt_file": "vpx-manufacturer-original.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Manufacturer - Original"
+        },
+        {
+            "manufacturer": "Stern",            
+            "unique_table_txt_file": "vpx-manufacturer-stern.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Manufacturer - Stern"
+        },
+        {
+            "manufacturer": "Wiliams",            
+            "unique_table_txt_file": "vpx-manufacturer-williams.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Manufacturer - Williams"
+        },
+        {
+            "manufacturer": "Zaccaria",            
+            "unique_table_txt_file": "vpx-manufacturer-zaccaria.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Manufacturer - Zaccaria"
+        },
+        {
+            "manufacturer": "Zen Studios",            
+            "unique_table_txt_file": "vpx-manufacturer-zenstudios.txt",
+            "lb_playlist_name": "Visual Pinball VPX - By Manufacturer - Zen Studios"
+        }
+    ]
+}

@@ -1,0 +1,259 @@
+24
+A Christmas Carol Pinball
+AC_DC
+AC_DC Back in Black - Limited Edition
+AC_DC LUCI - Vault Edition
+AC_DC LUCI Premium
+AC_DC Let There Be Rock - Limited Edition
+AC_DC PWR Up Edition
+AC_DC Premium
+AC_DC Pro
+AC_DC Pro - Vault Edition
+Ali
+Alien Covenant
+Alien Isolation Pinball
+Alien Nostromo
+Alien Resurrection
+Alien Trilogy
+Alien vs Predator Pinball
+Aliens
+Aliens Legacy
+Aliens Pinball
+American Dad! Pinball
+Archer Pinball
+Austin Powers
+"Avatar, James Cameron's"
+Back to the Future
+Back to the Future Pinball
+Barb Wire
+Batgirl
+Batman
+Batman 66
+Batman Forever
+Batman Returns
+Batman The Dark Knight
+Baywatch
+Beverly Hills Cop
+Big Buck Hunter Pro
+Blade
+Bob's Burgers Pinball
+Borderlands - Vault Hunter Pinball
+Bram Stoker's Dracula
+Brothers in Arms - Win the War Pinball
+Bugs Bunny's Birthday Ball
+CSI
+Canada Dry
+Capt. Fantastic and The Brown Dirt Cowboy
+Captain America
+Charlie's Angels
+Civil War
+Close Encounters of the Third Kind
+Commando - Schwarzenegger
+Conan
+Creature from the Black Lagoon
+Deadpool
+Demogorgon
+Demolition Man
+Dirty Harry
+Doctor Strange
+Doctor Who
+Dolly Parton
+Doom Pinball
+Dungeons & Dragons
+E.T. Pinball
+Elvira - Party House of Horror
+Elvira and the Party Monsters
+Elvis
+Evel Knievel
+Fallout Pinball
+Family Guy
+Family Guy Pinball
+Fantastic Four
+Fear Itself
+Freddy A Nightmare on Elm Street
+Game of Thrones
+Game of Thrones - Limited Edition
+Ghost Rider
+Ghostbusters
+Gilligan's Island
+Godzilla
+Godzilla Pinball
+Godzilla vs. Kong Pinball
+Goldeneye
+Guardians of the Galaxy
+Guardians of the Galaxy Trilogy
+Guns N' Roses
+Harlem Globetrotters On Tour
+Harley-Davidson
+Hellraiser
+Hook
+Independence Day
+Indiana Jones
+Indiana Jones - Fortune and Glory Edition
+Indiana Jones - The Pinball Adventure
+Indiana Jones The Last Movie
+Iron Man
+JP'S Iron Man 2 - Armored Adventures
+JP'S NASCAR Race
+JP's Addams Family
+JP's Captain Fantastic
+JP's Deadpool
+JP's Ghostbusters Slimer
+JP's Indiana Jones
+JP's Lord of The Rings
+JP's Spider-Man
+JP's Star Trek LE
+JP's Terminator 2
+JP's Terminator 3
+JP's The Avengers
+JP's The Lost World Jurassic Park
+JP's The Walking Dead
+JP's Transformers
+James Bond
+James Bond 007
+Jaws Pinball
+Johnny Mnemonic
+Judge Dredd
+Jurassic Park
+Jurassic Park Pinball
+Jurassic Park Pinball Mayhem
+Jurassic World Pinball
+Kiss
+Kong Pinball
+Krull
+Last Action Hero
+Lethal Weapon 3
+Lost In Space
+Mad Max Fury Road
+Marvel's Ant-Man
+Marvel's Avengers Age of Ultron
+Marvel's Guardians of the Galaxy
+Marvel's Women of Power - A-Force
+Marvel's Women of Power - Champions
+Marvel’s The Avengers
+Maverick
+Max Mad 2 The Road Warrior
+Metallica
+Meteor
+Monopoly
+Monster Bash
+Moon Knight
+Ms. Splosion Man
+Muppets Tribute Edition
+Mustang
+NASCAR
+NBA
+NBA Fastbreak
+No Fear Dangerous Sports
+Pirates of the Caribbean
+Plants vs. Zombies
+Playboy
+Playboy 35th Anniversary
+Poltergeist
+Popeye Saves the Earth
+Predator
+Primus
+Ripley's Believe It or Not!
+Road Runner
+Rob Zombie's Spookshow International
+RoboCop
+Rocky
+Rocky TKO Tribute
+RollerCoaster Tycoon
+Rollergames
+Rolling Stones
+Scared Stiff
+Seven of Nine Star Trek Voyager Borg Edition
+Shaq Attaq
+Shrek
+Simpsons Treehouse of Horror
+South Park
+South Park - Butters' Very Own Pinball Game
+South Park - Super Sweet Pinball
+Space Jam
+Spider-Man
+Spider-Man - Vault Edition
+Star Trek
+Star Trek 25th Anniversary
+Star Trek Spock Tribute
+Star Trek The Next Generation
+Star Wars
+Star Wars - Bounty Hunter
+Star Wars - The Empire Strikes Back
+Star Wars - Tribute
+Star Wars Death Star Assault
+Star Wars Episode 1
+Star Wars Pinball - Ahch-To Island
+Star Wars Pinball - Battle of Mimban War
+Star Wars Pinball - Boba Fett
+Star Wars Pinball - Calrissian Chronicles
+Star Wars Pinball - Classic Collectibles
+Star Wars Pinball - Darth Vader
+Star Wars Pinball - Droids
+Star Wars Pinball - Episode IV A New Hope
+Star Wars Pinball - Episode V The Empire Strikes Back
+Star Wars Pinball - Episode VI Return of the Jedi
+Star Wars Pinball - Han Solo
+Star Wars Pinball - Masters of the Force
+Star Wars Pinball - Might of the First Order
+Star Wars Pinball - Rebels
+Star Wars Pinball - Rogue One
+Star Wars Pinball - Solo
+Star Wars Pinball - Starfighter Assault
+Star Wars Pinball - The Clone Wars
+Star Wars Pinball - The Force Awakens
+Star Wars Pinball - The Last Jedi
+Star Wars Pinball - The Mandalorian
+Star Wars Trilogy
+Starship Troopers
+Super Mario Bros.
+Superman
+TRON Classic
+TRON Legacy
+Tales from the Crypt
+Terminator 2 - Judgment Day
+Terminator 3 - Rise of the Machines
+"Addams Family, The"
+"Amazing Spider-Man, The"
+"Avengers, The"
+"Avengers Infinity Quest, The"
+"Batman, The"
+"Elder Scrolls V Skyrim Pinball, The"
+"Flintstones, The"
+"Incredible Hulk, The"
+"Infinity Gauntlet, The"
+"Lord of the Rings, The"
+"Moon Walking Dead, The"
+"Pabst Can Crusher, The"
+"Rolling Stones, The"
+"Shadow, The"
+"Simpsons, The"
+"Simpsons Kooky Carnival, The"
+"Simpsons Pinball Party, The"
+"Six Million Dollar Man, The"
+"Sopranos, The"
+"Untouchables, The"
+"Walking Dead, The"
+"Who's Tommy Pinball Wizard, The"
+"X Files, The"
+They Live
+Thor
+Tom & Jerry
+Transformers
+Transformers G1
+Transformers The Movie 1986
+Twilight Zone
+Ultron
+Venom
+Viper Night Drivin'
+WWF Royal Rumble
+Watchmen
+Waterworld
+Wheel of Fortune
+Wizard of Oz
+Wizard!
+Wolverine
+World Poker Tour
+World War Hulk
+X-Men
+X-men

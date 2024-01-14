@@ -1,0 +1,16 @@
+Table Name (Manufacturer Year),Manufacturer,Year,Theme,Player(s),IPDB Number,Description(s),Type,VP Version,Table Author(s),Table Version,Table Date,New_Column
+Aerobatics (Zaccaria 1977),Zaccaria,1977,Aviation,1,24,-,EM,VPX,Alois,1.0,2021-01-11,Aerobatics
+Circus (Zaccaria 1977),Zaccaria,1977,"Happiness, Circus, Carnival",4,518,-,EM,VPX,"Teisen, Loserman76, GNance, JPSalas, Pinuck, HauntFreaks, BorgDog, Arngrim",1.0.0,2023-09-23,Circus
+Devil Riders (Zaccaria 1984),Zaccaria,1984,"Stunts, Motorcycles",4,672,-,SS,VPX,"Balutito, Goldchicco, 32assassin",1.0.0,2023-08-23,Devil Riders
+Earth Wind Fire (Zaccaria 1981),Zaccaria,1981,Fantasy,4,3611,-,SS,VPX,"Goldchicco, 32assassin, Mfuegemann, Vogliadicane, JPSalas",1.1a,2020-12-15,Earth Wind Fire
+Farfalla (Zaccaria 1983),Zaccaria,1983,-,4,824,-,SS,VPX,Kiwi,1.0.1,2022-12-21,Farfalla
+House of Diamonds (Zaccaria 1978),Zaccaria,1978,"Cards, Gambling",4,3165,-,SS,VPX,"HSM, Destruk, Mfuegemann, Kiwi, Greynurse, 32assassin, JPSalas",1.0,2019-10-26,House of Diamonds
+Locomotion (Zaccaria 1981),Zaccaria,1981,"Travel, Railroad",4,3217,-,SS,VPX,CKPin,1.2,2017-03-23,Locomotion
+Magic Castle (Zaccaria 1984),Zaccaria,1984,"Fantasy, Vampires",4,1511,-,SS,VPX,"32assassin, Francisco666",2.0,2016-01-02,Magic Castle
+Pinball Champ '82 (Zaccaria 1982),Zaccaria,1982,Pinball,4,1794,-,SS,VPX,"32assassin, Mfuegemann",1.2,2017-11-02,Pinball Champ '82
+Robot (Zaccaria 1985),Zaccaria,1985,Science Fiction,4,1977,-,SS,VPX,"Wylte, 32assassin, Francisco666",1.3.0,2023-06-23,Robot
+Soccer Kings (Zaccaria 1982),Zaccaria,1982,"Sports, Soccer",4,2235,-,SS,VPX,"Goldchicco, Dboyrecords, Movieguru",1.0-wip,2023-06-25,Soccer Kings
+Star God (Zaccaria 1980),Zaccaria,1980,Fantasy,4,3458,-,SS,VPX,"RetroRitchie, Goldchicco, 32assassin, JPSalas, Ezepov, Vogliadicane, Movieguru, Arngrim, HauntFreaks, Apophis, TastyWasps, Bord",1.4,2023-11-08,Star God
+Ten Stars (Zaccaria 1976),Zaccaria,1976,"Outer Space, Fantasy",1,3373,-,EM,VPX,"Ukexpat71, Loserman76, Axioma, VPW Team",1.0.0,2021-11-02,Ten Stars
+Time Machine (Zaccaria 1983),Zaccaria,1983,"Adventure, Fantasy, Science Fiction, Time Travel",4,3494,-,SS,VPX,"Goldchicco, 32assassin, Movieguru, Arngrim, Mfuegemann, Vogliadicane, Pmax65, JPSalas",1.3,2023-08-27,Time Machine
+Universe (Zaccaria 1976),Zaccaria,1976,Fantasy,4,2706,-,EM,VPX,"Ukexpat71, Loserman76, Axioma, VPW Team",1.0.0,2021-11-02,Universe
